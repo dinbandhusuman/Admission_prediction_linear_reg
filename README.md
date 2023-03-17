@@ -1,1 +1,1 @@
-# House_prediction_linear_reg
+# Admission_prediction_linear_reg
